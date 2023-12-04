@@ -1,0 +1,7 @@
+{
+  "name": "MyAttend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
